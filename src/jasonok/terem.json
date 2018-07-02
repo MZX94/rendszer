@@ -1,0 +1,34 @@
+[
+  {
+    "id": "001",
+    "tNev": "a1",
+    "emelet": "alagsor",
+    "osztaly": "IntimAte",
+    "pcStatus": "Warning",
+    "wifiStatus": "n.a"
+  },
+  {
+    "id": "002",
+    "tNev": "a2",
+    "emelet": "alagsor",
+    "osztaly": "n.a.",
+    "pcStatus": "n.a",
+    "wifiStatus": "n.a"
+  },
+  {
+    "id": "004",
+    "tNev": "11",
+    "emelet": "1. emelet",
+    "osztaly": "n.a",
+    "pcStatus": "OK",
+    "wifiStatus": "OK"
+  },
+  {
+    "id": "005",
+    "tNev": "12",
+    "emelet": "1. emelet",
+    "osztaly": "SmArties",
+    "pcStatus": "OK",
+    "wifiStatus": "OK"
+  }
+]
