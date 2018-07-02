@@ -5,6 +5,7 @@ class DashboardPage extends Component {
       return (
         <div className="DashboardPage">
           <h1>Irányítópult</h1>
+          <h2>Ide fognak jönni jó kis cuccok.</h2>
         </div>
       );
     }
